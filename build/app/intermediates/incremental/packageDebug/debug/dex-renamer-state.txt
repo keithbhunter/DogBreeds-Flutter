@@ -1,4 +1,4 @@
-#Mon Aug 13 21:35:30 EDT 2018
-base.0=/Users/keith.hunter/Developer/dogbreeds_flutter/build/app/intermediates/transforms/dexMerger/debug/0
+#Fri Aug 17 22:01:33 EDT 2018
+base.0=/Users/keith.hunter/Developer/DogBreeds-Flutter/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

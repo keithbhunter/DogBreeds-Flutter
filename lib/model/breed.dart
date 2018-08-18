@@ -1,11 +1,8 @@
-abstract class Breed {
-
+class Breed {
   String name;
+  List<Breed> subBreeds;
+  Breed parentBreed; // Circular reference?
 
-}
-
-abstract class SubBreed {
-
-  
-
+  Breed(this.name);
+  Breed.subBreed(this.name, this.parentBreed);
 }
